@@ -21,7 +21,7 @@
 </ul>
 <h2>Demo</h2>
 
-<p>[Link to live demo, if applicable]</p>
+<p>https://haiderghadi.github.io/Age-Calculator/</p>
 <h2>Contact</h2>
 
 <p>If you have any questions or suggestions, feel free to contact us at haiderghadi07@gmail.com.</p>
